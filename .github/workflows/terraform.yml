@@ -37,7 +37,7 @@ jobs:
 
       - name: Setup Terraform with specified version on the runner
         uses: hashicorp/setup-terraform@v2
-        # Uncomment and specify version if necessary
+        # Uncomment and speciy version if necessary
         # with:
         #   terraform_version: 1.6.3
 
